@@ -1,6 +1,6 @@
-# Calculator Setup Challenge
+# Basic calculator Challenge
 
-Practicing using Express.js to make a calculator
+Practicing using Express.js to make an addition calculator and BMI calculator
 
 ## Useful Commands in windows cmd.exe
 - taskkill /F /IM node.exe
