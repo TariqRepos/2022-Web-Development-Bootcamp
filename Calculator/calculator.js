@@ -4,7 +4,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 
 const app = express();
-// Lets to rextrive data from html and extends to nested casese
+// Body parser lets you retrive data from html and extends to nested cases
 app.use(bodyParser.urlencoded({extended: true}));
 
 app.get("/", function(req, res) {
