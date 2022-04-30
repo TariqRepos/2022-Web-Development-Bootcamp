@@ -7,7 +7,7 @@ Using HTML to create personal site
     - Uploads images and gets url to them
 
 - chttps://crop-circle.imageonline.co/
-    - creates circle cropped images
+    - Creates circle cropped images
 
 - https://developer.mozilla.org/en-US/docs/Web/HTML
     - MDN documentation for HTML
