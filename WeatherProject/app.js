@@ -1,6 +1,6 @@
 const express = require('express');
 const https = require('https');
-const bodyParser = require('body-Parser');
+const bodyParser = require('body-parser');
 
 const app = express();
 
@@ -12,7 +12,7 @@ app.get("/", function(req, res){
 
 app.post("/", function(req, res){
   const query = req.body.cityName;
-  const apiKey = "e04d60b30b6e07b1b7811d2f56e293dd";
+  const apiKey = ""; // Get from openweathermap
   const unit = "metric";
   const url = "https://api.openweathermap.org/data/2.5/weather?q=" + query + "&appid=" + apiKey + "&units=" + unit;
 
