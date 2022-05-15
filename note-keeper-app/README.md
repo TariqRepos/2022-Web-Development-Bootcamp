@@ -1,13 +1,13 @@
-# HTML - Personal Site
+# React Google Keeper App Project
 
-Using HTML to create personal site
+Practing using React
 
 ## Useful Links:
-- https://www.postman.com/
-    - Helpful with formatting api url
+- https://mui.com/material-ui/material-icons/
+    - Material UI Icons
 
-- https://openweathermap.org/current
-    - Open Weather Map API
+- https://mui.com/material-ui/
+    - Material UI Components
 
-- https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc/related?hl=en-US
-    - Json Viewer Pro
+- https://transparenttextures.com/
+    - Cool background textures
